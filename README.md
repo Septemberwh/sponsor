@@ -1,2 +1,20 @@
-# sponsor
-💰 Sponsors 请一定要留下您的Github用户名，感谢你对我赞助 ｜ Please be sure to leave your Github username, thank you for sponsoring me
+## 赞助我
+<div align="center">
+<img src="./wechat.jpg" alt="wechat" height="450" >
+<img src="./zfb.jpg" alt="zfb" height="450" >
+</div>
+
+
+<!-- ## Sponsors -->
+
+<!-- <p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Septemberwh/sponsor/sponsors.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Septemberwh/sponsor/sponsors.svg"/>
+  </a>
+</p> -->
+
+<!-- <p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Septemberwh/sponsor/sponsors_circle.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Septemberwh/sponsor/sponsors_circle.svg"/>
+  </a>
+</p> -->
