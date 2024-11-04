@@ -1,7 +1,7 @@
-## 赞助我
+<!-- ## 赞助我 -->
+## 请喝咖啡？谢谢赞赏~
 <div align="center">
-<img src="./wechat.jpg" alt="wechat" height="450" >
-<img src="./zfb.jpg" alt="zfb" height="450" >
+<img src="./wx.jpg" alt="wechat" height="400" >
 </div>
 
 
