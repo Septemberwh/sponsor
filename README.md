@@ -2,9 +2,8 @@
 
 ## Buy me a coffee ? | 请喝咖啡？谢谢赞赏~
 
-### 微信扫一扫
-
 <div align="center">
+  <div style="margin-bottom: 8px;">微信扫一扫</div>
   <img src="./wx.jpg" alt="wechat" height="400" >
 </div>
 
